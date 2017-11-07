@@ -1,0 +1,28 @@
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\Model.xafml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Win.exe.config
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Win.exe
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Win.pdb
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Module.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Module.Win.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Module.Win.pdb
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Module.pdb
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\obj\Debug\SPCBRPsoriasis.Win.csprojResolveAssemblyReference.cache
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\obj\Debug\SPCBRPsoriasis.Win.Properties.Resources.resources
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\obj\Debug\SPCBRPsoriasis.Win.SPCBRPsoriasisWindowsFormsApplication.resources
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\obj\Debug\SPCBRPsoriasis.Win.csproj.GenerateResource.Cache
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\obj\Debug\SPCBRPsoriasis.Win.exe
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Win\obj\Debug\SPCBRPsoriasis.Win.pdb
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\Model.xafml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Win.exe.config
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Win.exe
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Win.pdb
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Module.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Module.Win.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Module.Win.pdb
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\bin\Debug\SPCBRPsoriasis.Module.pdb
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\obj\Debug\SPCBRPsoriasis.Win.csprojResolveAssemblyReference.cache
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\obj\Debug\SPCBRPsoriasis.Win.Properties.Resources.resources
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\obj\Debug\SPCBRPsoriasis.Win.SPCBRPsoriasisWindowsFormsApplication.resources
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\obj\Debug\SPCBRPsoriasis.Win.csproj.GenerateResource.Cache
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\obj\Debug\SPCBRPsoriasis.Win.exe
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Win\obj\Debug\SPCBRPsoriasis.Win.pdb

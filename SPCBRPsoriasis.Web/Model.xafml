@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <NavigationItems>
+    <Items>
+      <Item Id="@c689f8a7-c664-4231-8013-a9dac6540493" Index="1" />
+      <Item Id="Reports" Index="2" />
+      <Item Id="Setting" Caption="Setting" ImageName="ModelEditor_Settings" Index="3" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="@006f57e0-3a96-434d-a528-8f494dcc5856" ViewId="SecuritySystemTypePermissionObject_ListView" IsNewNode="True" />
+          <Item Id="@071a5d29-9822-4c8b-ac17-3ba2b3f91689" ViewId="SecuritySystemObjectPermissionsObject_ListView" IsNewNode="True" />
+          <Item Id="@b1f72739-fd8c-42b0-bd56-4e2242766a85" ViewId="SecuritySystemMemberPermissionsObject_ListView" IsNewNode="True" />
+          <Item Id="@faa6584c-b845-4da3-b511-2e33d1dc877d" ViewId="SecuritySystemUser_ListView" IsNewNode="True" />
+          <Item Id="@fdcc301c-5739-442f-91ca-8283857faf67" ViewId="SecuritySystemRole_ListView" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="State Machine" Visible="False" />
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="SystemAspNetModule" Version="15.1.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="15.1.5.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>

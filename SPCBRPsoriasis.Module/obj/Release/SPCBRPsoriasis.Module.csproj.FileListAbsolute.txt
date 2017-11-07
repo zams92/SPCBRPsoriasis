@@ -1,0 +1,9 @@
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Module\bin\Release\SPCBRPsoriasis.Module.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Module\bin\Release\SPCBRPsoriasis.Module.pdb
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Module\obj\Release\SPCBRPsoriasis.Module.Controllers.BrowserControler.resources
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Module\obj\Release\SPCBRPsoriasis.Module.Controllers.DetailViewController.resources
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Module\obj\Release\SPCBRPsoriasis.Module.SPCBRPsoriasisModule.resources
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Module\obj\Release\SPCBRPsoriasis.Module.csproj.GenerateResource.Cache
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Module\obj\Release\SPCBRPsoriasis.Module.dll.licenses
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Module\obj\Release\SPCBRPsoriasis.Module.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Module\obj\Release\SPCBRPsoriasis.Module.pdb

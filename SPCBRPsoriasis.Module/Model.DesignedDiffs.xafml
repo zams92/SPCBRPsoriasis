@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="SPCBRPsoriasis" Logo="BO_Project">
+  <CreatableItems>
+    <CreatableItem ClassName="SPCBRPsoriasis.Module.BusinessObjects.Menu.Gejala.DataGejala" ImageName="BO_List" />
+    <CreatableItem ClassName="SPCBRPsoriasis.Module.BusinessObjects.Menu.Kasus.DataKasus" ImageName="BO_List" />
+    <CreatableItem ClassName="SPCBRPsoriasis.Module.BusinessObjects.Menu.Kasus.DataKasusDetail" ImageName="BO_List" />
+    <CreatableItem ClassName="SPCBRPsoriasis.Module.BusinessObjects.Menu.Pasien.DataPasien" ImageName="BO_List" />
+  </CreatableItems>
+  <NavigationItems>
+    <Items>
+      <Item Id="@c689f8a7-c664-4231-8013-a9dac6540493" Caption="Menu" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="@97f05436-071a-4a03-b182-b4947e590a6f" Caption="Kasus" IsNewNode="True">
+            <Items IsNewNode="True">
+              <Item Id="DataKasus_ListView" ViewId="DataKasus_ListView" ObjectKey="" ImageName="BO_List" IsNewNode="True" />
+              <Item Id="DataKasusDetail_ListView" ViewId="DataKasusDetail_ListView" ObjectKey="" Visible="False" ImageName="BO_List" IsNewNode="True" />
+            </Items>
+          </Item>
+          <Item Id="@b0664488-3167-4068-956e-b11197d41ebe" Caption="Gejala" IsNewNode="True">
+            <Items IsNewNode="True">
+              <Item Id="DataGejala_ListView" ObjectKey="" ViewId="DataGejala_ListView" ImageName="BO_List" IsNewNode="True" />
+            </Items>
+          </Item>
+          <Item Id="@bce6af4c-cfb8-4540-a132-4ad1331155d0" Caption="Pasien" IsNewNode="True">
+            <Items IsNewNode="True">
+              <Item Id="DataKeluhan_ListView" ImageName="BO_List" ViewId="DataKeluhan_ListView" Caption="Keluhan Pasien" IsNewNode="True" />
+              <Item Id="DataPasien_ListView" ViewId="DataPasien_ListView" ObjectKey="" ImageName="BO_List" IsNewNode="True" />
+            </Items>
+          </Item>
+        </Items>
+      </Item>
+      <Item Id="Default" ImageName="BO_Folder" Removed="True" />
+      <Item Id="Reports" Caption="Laporan" />
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="15.1.5.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="DataGejala_DetailView">
+      <Items>
+        <PropertyEditor Id="aktif" Caption="Data Aktif" />
+        <PropertyEditor Id="bobot" Caption="Nilai Bobot" />
+        <PropertyEditor Id="kodegejala" Caption="Kode Gejala" AllowEdit="False" />
+        <PropertyEditor Id="namagejala" Caption="Nama Gejala" />
+      </Items>
+    </DetailView>
+    <ListView Id="DataGejala_ListView">
+      <Columns>
+        <ColumnInfo Id="kodegejala" Caption="Kode Gejala" />
+        <ColumnInfo Id="namagejala" Caption="Nama Gejala" />
+        <ColumnInfo Id="bobot" Caption="Nilai Bobot" />
+        <ColumnInfo Id="aktif" Caption="Data Aktif" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataGejala_LookupListView">
+      <Columns>
+        <ColumnInfo Id="kodegejala" Caption="Kode Gejala" />
+        <ColumnInfo Id="namagejala" Caption="Nama Gejala" />
+        <ColumnInfo Id="bobot" Caption="Nilai Bobot" />
+        <ColumnInfo Id="aktif" Caption="Data Aktif" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataKasus_DataKasusDetail_ListView">
+      <Columns>
+        <ColumnInfo Id="datakasus" Caption="Kode Kasus" LookupProperty="kodekasus" />
+        <ColumnInfo Id="deskripsi" Caption="Deskripsi" />
+        <ColumnInfo Id="datagejala" Caption="Nama Gejala" LookupProperty="namagejala" />
+        <ColumnInfo Id="skala" Caption="Skala" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataKasus_DataSolusi_ListView">
+      <Columns>
+        <ColumnInfo Id="datakasus" Caption="Kode Kasus" LookupProperty="kodekasus" />
+        <ColumnInfo Id="pengobatan" Caption="Pengobatan" />
+        <ColumnInfo Id="kodesolusi" Caption="Kode Solusi" />
+      </Columns>
+    </ListView>
+    <DetailView Id="DataKasus_DetailView">
+      <Items>
+        <PropertyEditor Id="aktif" Caption="Data Aktif" />
+        <PropertyEditor Id="DataKasusDetail" Caption="Data Gejala dari Kasus" />
+        <PropertyEditor Id="datapasien" LookupProperty="kodepasien" Caption="Kode Pasien" />
+        <PropertyEditor Id="DataSolusi" Caption="Data Solusi Terhadap Kasus Untuk Gejala" LookupProperty="" />
+        <PropertyEditor Id="kodekasus" Caption="Kode Kasus" AllowEdit="False" />
+        <PropertyEditor Id="namapenyakit" Caption="Nama Penyakit" />
+        <PropertyEditor Id="statuskasus" Caption="Status Kasus" />
+        <PropertyEditor Id="tanggalkasus" Caption="Tanggal Kasus Diketahui" />
+        <PropertyEditor Id="tanggalvalidasikasus" Caption="Tanggal Kasus Setelah Divalidasi" />
+      </Items>
+    </DetailView>
+    <ListView Id="DataKasus_ListView">
+      <Columns>
+        <ColumnInfo Id="kodekasus" Caption="Kode Kasus" />
+        <ColumnInfo Id="namapenyakit" Caption="Nama Penyakit" />
+        <ColumnInfo Id="datapasien" Caption="Kode Pasien" LookupProperty="kodepasien" />
+        <ColumnInfo Id="tanggalkasus" Caption="Tanggal Kasus Diketahui" />
+        <ColumnInfo Id="tanggalvalidasikasus" Caption="Tanggal Kasus Divalidasi" />
+        <ColumnInfo Id="aktif" Caption="Data Aktif" />
+        <ColumnInfo Id="statuskasus" Caption="Status Kasus" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataKasus_LookupListView">
+      <Columns>
+        <ColumnInfo Id="kodekasus" Caption="Kode Kasus" />
+        <ColumnInfo Id="namapenyakit" Caption="Nama Penyakit" />
+        <ColumnInfo Id="datapasien" Caption="Kode Pasien" LookupProperty="kodepasien" />
+        <ColumnInfo Id="tanggalkasus" Caption="Tanggal Kasus Diketahui" />
+        <ColumnInfo Id="tanggalvalidasikasus" Caption="Tanggal Kasus Divalidasi" />
+        <ColumnInfo Id="aktif" Caption="Data Aktif" />
+        <ColumnInfo Id="statuskasus" Caption="Status Kasus" />
+      </Columns>
+    </ListView>
+    <DetailView Id="DataKasusDetail_DetailView">
+      <Items>
+        <PropertyEditor Id="datagejala" LookupProperty="namagejala" Caption="Nama Gejala" />
+        <PropertyEditor Id="datakasus" LookupProperty="kodekasus" Caption="Kode Kasus" DataSourcePropertyIsNullMode="SelectNothing" AllowEdit="False" />
+        <PropertyEditor Id="deskripsi" Caption="Deskripsi" />
+        <PropertyEditor Id="skala" Caption="Skala" />
+      </Items>
+    </DetailView>
+    <ListView Id="DataKasusDetail_ListView">
+      <Columns>
+        <ColumnInfo Id="deskripsi" Caption="Deskripsi" />
+        <ColumnInfo Id="datakasus" Caption="Kode Kasus" LookupProperty="kodekasus" />
+        <ColumnInfo Id="datagejala" LookupProperty="namagejala" Caption="Nama Gejala" />
+        <ColumnInfo Id="skala" Caption="Skala" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataKasusDetail_LookupListView">
+      <Columns>
+        <ColumnInfo Id="deskripsi" Caption="Deskripsi" />
+        <ColumnInfo Id="datakasus" Caption="Kode Kasus" LookupProperty="kodekasus" />
+        <ColumnInfo Id="datagejala" Caption="Nama Gejala" LookupProperty="namagejala" />
+        <ColumnInfo Id="skala" Caption="Skala" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataKeluhan_DataKeluhanDetail_ListView" Caption="Gejala Yang Dialami">
+      <Columns>
+        <ColumnInfo Id="datakeluhan" LookupProperty="kodekeluhan" Caption="kodekeluhan" />
+        <ColumnInfo Id="deskripsi" Caption="Deskripsi" />
+        <ColumnInfo Id="datagejala" Caption="Nama Gejala" LookupProperty="namagejala" />
+        <ColumnInfo Id="skala" Caption="Skala" />
+      </Columns>
+    </ListView>
+    <DetailView Id="DataKeluhan_DetailView">
+      <Items>
+        <PropertyEditor Id="catatan" Caption="Catatan" AllowEdit="False" />
+        <PropertyEditor Id="DataKeluhanDetail" Caption="Gejala Yang Dialami" />
+        <PropertyEditor Id="datapasien" Caption="Kode Pasien" LookupProperty="kodepasien" />
+        <PropertyEditor Id="kodekeluhan" AllowEdit="False" Caption="Kode Keluhan" />
+        <PropertyEditor Id="statuskeluhan" Caption="Status Keluhan" />
+        <PropertyEditor Id="tanggalkeluhan" Caption="Tanggal Keluhan" />
+      </Items>
+    </DetailView>
+    <ListView Id="DataKeluhan_ListView">
+      <Columns>
+        <ColumnInfo Id="kodekeluhan" Caption="Kode Keluhan" />
+        <ColumnInfo Id="datapasien" Caption="Data Pasien" LookupProperty="kodepasien" />
+        <ColumnInfo Id="tanggalkeluhan" Caption="Tanggal Keluhan" />
+        <ColumnInfo Id="catatan" Caption="Catatan" />
+        <ColumnInfo Id="statuskeluhan" Caption="Status Keluhan" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataKeluhan_LookupListView">
+      <Columns>
+        <ColumnInfo Id="kodekeluhan" Caption="Kode Keluhan" />
+        <ColumnInfo Id="datapasien" Caption="Kode Pasien" LookupProperty="kodepasien" />
+        <ColumnInfo Id="tanggalkeluhan" Caption="Tanggal Keluhan" />
+        <ColumnInfo Id="catatan" Caption="Catatan" />
+        <ColumnInfo Id="statuskeluhan" Caption="Status Keluhan" />
+      </Columns>
+    </ListView>
+    <DetailView Id="DataKeluhanDetail_DetailView">
+      <Items>
+        <PropertyEditor Id="datagejala" Caption="Nama Gejala" LookupProperty="namagejala" />
+        <PropertyEditor Id="datakeluhan" Caption="Kode Keluhan" LookupProperty="kodekeluhan" />
+        <PropertyEditor Id="deskripsi" Caption="Deskripsi" />
+        <PropertyEditor Id="skala" Caption="Skala" />
+      </Items>
+    </DetailView>
+    <ListView Id="DataKeluhanDetail_ListView">
+      <Columns>
+        <ColumnInfo Id="deskripsi" Caption="Deskripsi" />
+        <ColumnInfo Id="datakeluhan" Caption="Kode Keluhan" LookupProperty="kodekeluhan" />
+        <ColumnInfo Id="datagejala" LookupProperty="namagejala" Caption="Nama Gejala" />
+        <ColumnInfo Id="skala" Caption="Skala" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataKeluhanDetail_LookupListView">
+      <Columns>
+        <ColumnInfo Id="deskripsi" Caption="Deskripsi" />
+        <ColumnInfo Id="datakeluhan" Caption="Kode Keluhan" LookupProperty="kodekeluhan" />
+        <ColumnInfo Id="datagejala" LookupProperty="namagejala" Caption="Nama Gejala" />
+        <ColumnInfo Id="skala" Caption="Skala" />
+      </Columns>
+    </ListView>
+    <DetailView Id="DataPasien_DetailView">
+      <Items>
+        <PropertyEditor Id="aktif" Caption="Data Aktif" />
+        <PropertyEditor Id="alamat" Caption="Alamat" />
+        <PropertyEditor Id="jeniskelamin" Caption="Jenis Kelamin" />
+        <PropertyEditor Id="kodepasien" Caption="Kode Pasien" AllowEdit="False" />
+        <PropertyEditor Id="minumakeras" Caption="Minuman Keras" />
+        <PropertyEditor Id="namapasien" Caption="Nama Pasien" />
+        <PropertyEditor Id="narkotika" Caption="Narkotika" />
+        <PropertyEditor Id="notelp" Caption="No Telp" />
+        <PropertyEditor Id="perokok" Caption="Rokok" />
+        <PropertyEditor Id="ttl" Caption="Tempat,Tanggal Lahir" />
+        <PropertyEditor Id="umur" Caption="Umur" />
+      </Items>
+    </DetailView>
+    <ListView Id="DataPasien_ListView">
+      <Columns>
+        <ColumnInfo Id="alamat" Caption="Alamat" />
+        <ColumnInfo Id="ttl" Caption="Tempat, Tanggal Lahir" />
+        <ColumnInfo Id="kodepasien" Caption="Kode Pasien" />
+        <ColumnInfo Id="namapasien" Caption=" Nama Pasien" />
+        <ColumnInfo Id="umur" Caption="Umur" />
+        <ColumnInfo Id="jeniskelamin" Caption="Jenis Kelamin" />
+        <ColumnInfo Id="notelp" Caption="No Telp" />
+        <ColumnInfo Id="perokok" Caption="Rokok" />
+        <ColumnInfo Id="minumakeras" Caption="Minuman Keras" />
+        <ColumnInfo Id="narkotika" Caption="Narkotika" />
+        <ColumnInfo Id="aktif" Caption="Data Aktif" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataPasien_LookupListView">
+      <Columns>
+        <ColumnInfo Id="alamat" Caption="Alamat" />
+        <ColumnInfo Id="ttl" Caption="Tempat Tanggal Lahir" />
+        <ColumnInfo Id="kodepasien" Caption="Kode Pasien" />
+        <ColumnInfo Id="namapasien" Caption="Nama Pasien" />
+        <ColumnInfo Id="umur" Caption="Umur" />
+        <ColumnInfo Id="jeniskelamin" Caption="Jenis Kelamin" />
+        <ColumnInfo Id="notelp" Caption="No Telp" />
+        <ColumnInfo Id="perokok" Caption="Rokok" />
+        <ColumnInfo Id="minumakeras" Caption="Minuman Keras" />
+        <ColumnInfo Id="narkotika" Caption="Narkotika" />
+        <ColumnInfo Id="aktif" Caption="Data Aktif" />
+      </Columns>
+    </ListView>
+    <DetailView Id="DataSolusi_DetailView">
+      <Items>
+        <PropertyEditor Id="datakasus" Caption="Kode Kasus" LookupProperty="kodekasus" AllowEdit="False" />
+        <PropertyEditor Id="kodesolusi" Caption="Kode Solusi" AllowEdit="False" />
+        <PropertyEditor Id="pengobatan" Caption="Pengobatan" />
+      </Items>
+    </DetailView>
+    <ListView Id="DataSolusi_ListView">
+      <Columns>
+        <ColumnInfo Id="pengobatan" Caption="Pengobatan" />
+        <ColumnInfo Id="kodesolusi" Caption="Kode Solusi" />
+        <ColumnInfo Id="datakasus" Caption="Kode Kasus" LookupProperty="kodekasus" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataSolusi_LookupListView">
+      <Columns>
+        <ColumnInfo Id="pengobatan" Caption="Pengobatan" />
+        <ColumnInfo Id="kodesolusi" Caption="Kode Solusi" />
+        <ColumnInfo Id="datakasus" Caption="Kode Kasus" LookupProperty="kodekasus" />
+      </Columns>
+    </ListView>
+    <DetailView Id="ParameterHasilDiagnosa_DetailView">
+      <Items>
+        <PropertyEditor Id="Filterbykodepasien" Caption="Pencarian Berdasarkan Kode Pasien" />
+        <PropertyEditor Id="KodePasien" LookupProperty="kodepasien" />
+        <PropertyEditor Id="SortByKodeKasus" AllowEdit="True" />
+      </Items>
+    </DetailView>
+  </Views>
+</Application>

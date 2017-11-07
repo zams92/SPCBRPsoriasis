@@ -1,0 +1,284 @@
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\SPCBRPsoriasis.Web.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\SPCBRPsoriasis.Web.pdb
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Data.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.ConditionalAppearance.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.FileAttachment.Web.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Images.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.ReportsV2.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.ReportsV2.Web.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Security.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.StateMachine.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.TreeListEditors.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.TreeListEditors.Web.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Validation.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Web.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Xpo.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Persistent.Base.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Persistent.BaseImpl.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Utils.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Web.ASPxThemes.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Web.ASPxTreeList.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Web.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Xpo.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.XtraReports.v15.1.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.XtraReports.v15.1.Web.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\SPCBRPsoriasis.Module.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\SPCBRPsoriasis.Module.Web.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Configuration.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Data.DataSetExtensions.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Data.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Drawing.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.EnterpriseServices.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.ApplicationServices.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.DynamicData.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.Entity.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.Extensions.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.Mobile.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.Services.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Xml.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Xml.Linq.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\SPCBRPsoriasis.Module.Web.pdb
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\SPCBRPsoriasis.Module.pdb
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.ConditionalAppearance.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.FileAttachment.Web.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.ReportsV2.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.ReportsV2.Web.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Security.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.StateMachine.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.TreeListEditors.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.TreeListEditors.Web.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Validation.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Xpo.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Data.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Web.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Persistent.Base.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Persistent.BaseImpl.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Utils.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Web.ASPxTreeList.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Web.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Xpo.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.XtraReports.v15.1.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.XtraReports.v15.1.Web.xml
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.FileAttachment.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.FileAttachment.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.FileAttachment.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.FileAttachment.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.ReportsV2.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.ReportsV2.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.ReportsV2.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.ReportsV2.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.Security.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.Security.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.Security.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.Security.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.StateMachine.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.StateMachine.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.StateMachine.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.Validation.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.Validation.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.Validation.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.Validation.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\obj\Debug\SPCBRPsoriasis.Web.csprojResolveAssemblyReference.cache
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\obj\Debug\SPCBRPsoriasis.Web.SPCBRPsoriasisAspNetApplication.resources
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\obj\Debug\SPCBRPsoriasis.Web.csproj.GenerateResource.Cache
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\obj\Debug\SPCBRPsoriasis.Web.dll.licenses
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\obj\Debug\SPCBRPsoriasis.Web.dll
+C:\Users\Zams\Documents\Visual Studio 2010\Projects\SPCBRPsoriasis\SPCBRPsoriasis.Web\obj\Debug\SPCBRPsoriasis.Web.pdb
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\SPCBRPsoriasis.Web.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\SPCBRPsoriasis.Web.pdb
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Data.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.ConditionalAppearance.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.FileAttachment.Web.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Images.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.ReportsV2.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.ReportsV2.Web.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Security.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.StateMachine.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.TreeListEditors.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.TreeListEditors.Web.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Validation.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Web.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Xpo.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Persistent.Base.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Persistent.BaseImpl.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Utils.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Web.ASPxThemes.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Web.ASPxTreeList.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Web.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Xpo.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.XtraReports.v15.1.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.XtraReports.v15.1.Web.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\SPCBRPsoriasis.Module.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\SPCBRPsoriasis.Module.Web.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Configuration.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Data.DataSetExtensions.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Data.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Drawing.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.EnterpriseServices.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.ApplicationServices.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.DynamicData.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.Entity.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.Extensions.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.Mobile.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Web.Services.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Xml.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\System.Xml.Linq.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\SPCBRPsoriasis.Module.Web.pdb
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\SPCBRPsoriasis.Module.pdb
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.ConditionalAppearance.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.FileAttachment.Web.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.ReportsV2.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.ReportsV2.Web.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Security.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.StateMachine.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.TreeListEditors.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.TreeListEditors.Web.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Validation.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Xpo.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Data.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.ExpressApp.Web.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Persistent.Base.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Persistent.BaseImpl.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Utils.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Web.ASPxTreeList.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Web.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.Xpo.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.XtraReports.v15.1.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\DevExpress.XtraReports.v15.1.Web.xml
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.FileAttachment.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.FileAttachment.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.FileAttachment.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.FileAttachment.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.ReportsV2.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.ReportsV2.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.ReportsV2.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.ReportsV2.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.Security.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.Security.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.Security.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.Security.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.StateMachine.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.StateMachine.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.StateMachine.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.Validation.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.Validation.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.Validation.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.Validation.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.Web.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\de\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\es\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ja\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\bin\ru\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\obj\Debug\SPCBRPsoriasis.Web.csprojResolveAssemblyReference.cache
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\obj\Debug\SPCBRPsoriasis.Web.SPCBRPsoriasisAspNetApplication.resources
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\obj\Debug\SPCBRPsoriasis.Web.csproj.GenerateResource.Cache
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\obj\Debug\SPCBRPsoriasis.Web.dll.licenses
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\obj\Debug\SPCBRPsoriasis.Web.dll
+C:\Users\Zams\Documents\SKRIPSI\Program\SPCBRPsoriasis\SPCBRPsoriasis.Web\obj\Debug\SPCBRPsoriasis.Web.pdb

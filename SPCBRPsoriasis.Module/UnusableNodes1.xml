@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <ListView Id="DataKeluhanDetail_LookupListView">
+      <Columns Id="Columns">
+        <ColumnInfo Id="datakasus" Caption="Kode Keluhan" LookupProperty="kodekeluhan" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataKeluhan_DataKeluhanDetail_ListView">
+      <Columns Id="Columns">
+        <ColumnInfo Id="datakasus" Caption="Kode Keluhan" LookupProperty="kodekeluhan" AllowEdit="False" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataKeluhanDetail_ListView">
+      <Columns Id="Columns">
+        <ColumnInfo Id="datakasus" Caption="Kode Keluhan" LookupProperty="kodekeluhan" />
+      </Columns>
+    </ListView>
+    <DetailView Id="DataKeluhanDetail_DetailView">
+      <Items Id="Items">
+        <PropertyEditor Id="datakasus" Caption="Kode Keluhan" LookupProperty="kodekeluhan" AllowEdit="False" />
+      </Items>
+    </DetailView>
+  </Views>
+</Application>

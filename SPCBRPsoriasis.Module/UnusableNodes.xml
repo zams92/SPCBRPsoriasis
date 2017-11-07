@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <ListView Id="DataSolusi_DataKasusDetail_ListView">
+      <Columns Id="Columns">
+        <ColumnInfo Id="datasolusi" Caption="Kode Solusii" LookupProperty="Kode Solusi" />
+        <ColumnInfo Id="deskripsi" Caption="Deskripsi" />
+        <ColumnInfo Id="datakasus" Caption="Kode Kasus" LookupProperty="kodekasus" />
+        <ColumnInfo Id="datagejala" LookupProperty="kodegejala" Caption="Kode Gejala" />
+        <ColumnInfo Id="skala" Caption="Skala" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataKasus_DataKasusDetail_ListView">
+      <Columns Id="Columns">
+        <ColumnInfo Id="datasolusi" Caption="Kode Solusi" LookupProperty="kodesolusi" />
+      </Columns>
+    </ListView>
+    <ListView Id="DataKasusDetail_ListView">
+      <Columns Id="Columns">
+        <ColumnInfo Id="datasolusi" Caption="Kode Solusi" LookupProperty="kodesolusi" />
+      </Columns>
+    </ListView>
+    <DetailView Id="DataKasusDetail_DetailView">
+      <Items Id="Items">
+        <PropertyEditor Id="datasolusi" LookupProperty="kodesolusi" Caption="Kode Solusi" />
+      </Items>
+    </DetailView>
+    <ListView Id="DataKasusDetail_LookupListView">
+      <Columns Id="Columns">
+        <ColumnInfo Id="datasolusi" Caption="Kode Solusi" LookupProperty="kodesolusi" />
+      </Columns>
+    </ListView>
+    <DetailView Id="DataSolusi_DetailView">
+      <Items Id="Items">
+        <PropertyEditor Id="DataKasusDetail" Caption="Solusi Untuk Kasus dengan Gejala" />
+      </Items>
+    </DetailView>
+  </Views>
+</Application>

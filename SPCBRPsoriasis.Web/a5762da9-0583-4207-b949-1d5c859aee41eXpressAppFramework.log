@@ -1,0 +1,36 @@
+16.03.17 21:39:01.199	================================================================================
+16.03.17 21:39:01.215	Trace Log for b5491a0e-1-131341487283155862 is started
+16.03.17 21:39:01.215	================================================================================
+16.03.17 21:39:01.236	System Environment
+	OS Version: Microsoft Windows NT 6.1.7601 Service Pack 1
+	.Net Framework Versions: v2.0.50727, v4.0.30319
+
+	CLR Version: 4.0.30319.17929
+	eXpressApp Version: 15.1.5.0
+Application config
+	Modules=
+	ErrorReportEmail=
+	ErrorReportEmailServer=
+	SimpleErrorReportPage=
+	RichErrorReportPage=Error.aspx
+	EnableDiagnosticActions=False
+16.03.17 21:39:01.236	The ValueManagerType is initialized by the default value: SimpleValueManager.
+16.03.17 21:39:01.237	Stack trace:
+   at DevExpress.Persistent.Base.ValueManager.CreateValueManager[ValueType](String key)
+   at DevExpress.Persistent.Base.ValueManager.GetValueManager[ValueType](String key)
+   at DevExpress.ExpressApp.Web.WebApplicationStyleManager.get_IsNewStyle()
+   at DevExpress.ExpressApp.Web.Controls.ASPxProgressControl..ctor()
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at Microsoft.VisualStudio.Web.WebControlSchemaGenerator.ElementType..ctor(Type t)
+   at Microsoft.VisualStudio.Web.WebControlSchemaGenerator.SchemaGenerator.GetElementType(Type type)
+   at Microsoft.VisualStudio.Web.WebControlSchemaGenerator.SchemaInfo.Populate(VsTargetFrameworkTypeFilter targetFrameworkTypeFilter)
+   at Microsoft.VisualStudio.Web.WebControlSchemaGenerator.SchemaGenerator.GenerateSchemaFile(SchemaData schemaData, SchemaInfoData[] SIDArray, String schemaPath)
+   at Microsoft.VisualStudio.Web.WebControlSchemaGenerator.HostedSchemaGeneratorBase.GenerateSchema(List`1 schemaInfoDatas, SchemaData schemaData, String schemaPath, VsTargetFrameworkTypeFilter targetFrameworkTypeFilter)
+   at Microsoft.VisualStudio.Web.WebControlSchemaGenerator.HostedSchemaGeneratorBase.CreateSchema(List`1 registerDirectives, List`1 assembliesListsGenerateFrom, CacheComponentCollection scc, String schemaPath, GeneratedFilesCache generatedFilesCache, VsTargetFrameworkTypeFilter targetFrameworkTypeFilter)
+   at Microsoft.VisualStudio.Web.WebControlSchemaGenerator.HostedSchemaGeneratorBase.GetSchemaInfo(List`1 registerDirectives, String schemaPath, GeneratedFilesCache generatedFilesCache, VsTargetFrameworkTypeFilter targetFrameworkTypeFilter)
+   at Microsoft.VisualStudio.Web.WebControlSchemaGenerator.CBMHostedSchemaGenerator.GetSchemaInfo(List`1 registerDirectives, String schemaPath, GeneratedFilesCache generatedFilesCache, VsTargetFrameworkTypeFilter targetFrameworkTypeFilter)
+
